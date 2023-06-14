@@ -155,4 +155,5 @@ print('Seq. identity:', align.get_sequence_identity(alignments))
 
 import numpy as np 
 
+# This is a test for github 
 
